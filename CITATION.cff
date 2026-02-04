@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce framework théorique ou ces équations, merci de citer le travail original comme suit."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    email: "lmc.theory@gmail.com"
+    affiliation: "Lichen-Collectives"
+title: "Architecture de l'Entropie Unifiée : Dynamiques Génératives, Frustration Géométrique et Phases Topologiques"
+version: 1.0.0
+date-released: 2026-02-04
+abstract: "Une extension conceptuelle et mathématique intégrant la théorie de Shannon, la mécanique statistique de Boltzmann-Gibbs et les phases topologiques. Ce travail redéfinit l'entropie non comme une perte, mais comme une ressource structurée par la frustration géométrique, applicable aux systèmes quantiques non-ergodiques et à l'IA."
+keywords:
+  - "entropy"
+  - "topological-phases"
+  - "geometric-frustration"
+  - "unified-physics"
+  - "lichen-collectives"
+license: Apache-2.0
